@@ -216,3 +216,20 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ConstrainedJEPA local artifacts
+artifacts/
+data/
+datasets/
+checkpoints/
+outputs/
+multirun/
+.hydra/
+wandb/
+videos/
+*.ckpt
+*.pt
+*.pth
+*.h5
+*.hdf5
+*.tar.zst
